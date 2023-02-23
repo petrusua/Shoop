@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Shnike",
+    "Color": "Red",
+    "Size": "M",
+    "Price": 4000,
+    "ImgUrl": "https://avatars.mds.yandex.net/get-mpic/6647093/img_id7150900377410494073.jpeg/orig"
+  },
+  {
+    "Name": "Largista",
+    "Color": "Blue",
+    "Size": "L",
+    "Price": 3500,
+    "ImgUrl": "https://beatstreetshop.ru/images/detailed/4/7_02_vkt1-ev.jpg"
+  }
+]

@@ -1,0 +1,28 @@
+﻿@namespace wwrk
+@using wwrk.Domain.Entities;
+@model List<TShirt>
+@{
+    var db = new TShirtDatabase("Domain\\Entities\\json.json");
+}
+@{
+    var tShirts = db.GetAll();
+}
+
+@foreach (var tShirt in tShirts)
+{
+    <article class="style1">
+        <span class="image">
+            <img src=@tShirt.ImgUrl alt="" />
+        </span>
+        <a href="generic.html">
+            <h2>@tShirt.Name</h2>
+            <div class="content">
+                <p>@tShirt.Size</p>
+                <p>@tShirt.Color</p>
+                <p>@tShirt.Price</p>
+
+            </div>
+        </a>
+    </article>
+}
+

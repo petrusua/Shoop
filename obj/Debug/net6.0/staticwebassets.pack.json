@@ -1,0 +1,529 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\css\\main.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\css\\noscript.css",
+      "PackagePath": "staticwebassets\\css\\noscript.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\logo.webp",
+      "PackagePath": "staticwebassets\\images\\logo.webp"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic02.jpg",
+      "PackagePath": "staticwebassets\\images\\pic02.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic03.jpg",
+      "PackagePath": "staticwebassets\\images\\pic03.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic04.jpg",
+      "PackagePath": "staticwebassets\\images\\pic04.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic05.jpg",
+      "PackagePath": "staticwebassets\\images\\pic05.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic06.jpg",
+      "PackagePath": "staticwebassets\\images\\pic06.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic07.jpg",
+      "PackagePath": "staticwebassets\\images\\pic07.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic08.jpg",
+      "PackagePath": "staticwebassets\\images\\pic08.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic09.jpg",
+      "PackagePath": "staticwebassets\\images\\pic09.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic10.jpg",
+      "PackagePath": "staticwebassets\\images\\pic10.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic11.jpg",
+      "PackagePath": "staticwebassets\\images\\pic11.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic12.jpg",
+      "PackagePath": "staticwebassets\\images\\pic12.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic13.jpg",
+      "PackagePath": "staticwebassets\\images\\pic13.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic14.jpg",
+      "PackagePath": "staticwebassets\\images\\pic14.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\images\\pic15.jpg",
+      "PackagePath": "staticwebassets\\images\\pic15.jpg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\breakpoints.min.js",
+      "PackagePath": "staticwebassets\\js\\breakpoints.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\browser.min.js",
+      "PackagePath": "staticwebassets\\js\\browser.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\script.min.js",
+      "PackagePath": "staticwebassets\\js\\script.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\js\\util.js",
+      "PackagePath": "staticwebassets\\js\\util.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\base\\_page.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_page.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\base\\_reset.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_reset.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\sass\\base\\_typography.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_actions.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_actions.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_box.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_box.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_button.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_button.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_icon.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_icon.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_image.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_list.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_list.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_row.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_row.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_section.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_section.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_table.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\components\\_tiles.scss",
+      "PackagePath": "staticwebassets\\sass\\components\\_tiles.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\layout\\_main.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_main.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\layout\\_menu.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_menu.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\layout\\_wrapper.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_wrapper.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_functions.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_functions.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_html-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_html-grid.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_vars.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\libs\\_vendor.scss",
+      "PackagePath": "staticwebassets\\sass\\libs\\_vendor.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\sass\\noscript.scss",
+      "PackagePath": "staticwebassets\\sass\\noscript.scss"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\new folder programs\\vs\\vsprj\\wwrk\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.wwrk.props",
+      "PackagePath": "build\\wwrk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.wwrk.props",
+      "PackagePath": "buildMultiTargeting\\wwrk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.wwrk.props",
+      "PackagePath": "buildTransitive\\wwrk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.wwrk.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
